@@ -1,5 +1,10 @@
 # LangChain in Detail: A Comprehensive Overview
 
+![Langchains](https://img.shields.io/badge/Lang%20Chains-Langchains-blue)
+![Python](https://img.shields.io/badge/Python-3.10+-green)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Models-orange)
+
+
 LangChain is a powerful framework for developing applications powered by large language models (LLMs). It simplifies the process of building these applications by providing modular components and helpful abstractions.  This README provides a detailed explanation of LangChain's core features, use cases, and how to get started.
 
 ## What is LangChain?
