@@ -24,3 +24,5 @@ python-dotenv
 # Machine Learning Utilities
 numpy
 scikit-learn
+
+youtube_transcript_api
